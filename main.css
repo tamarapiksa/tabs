@@ -1,0 +1,15 @@
+div.tabs a {
+	background: none;
+}
+
+div.tabs a.active {
+	background-color: red;
+}
+
+.tab-info {
+	display: none;
+}
+
+.tab-info.active {
+	display: inherit;
+}
