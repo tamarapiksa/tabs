@@ -1,4 +1,4 @@
-#H1 JQuery Tabs Plugin
+#JQuery Tabs Plugin
 
 Using jQuery, CSS and HTML to create a simple tabs plugin that highlights the tab name in red and displays the corresponding div info. 
 
